@@ -1,3 +1,3 @@
-function poop()
-	print("poop")
+function make_poop()
+	return "poop"
 end

@@ -1,4 +1,4 @@
-package = "luarocks dummy"
+package = "luarocks_dummy"
 version = "0.1-1"
 
 source = {

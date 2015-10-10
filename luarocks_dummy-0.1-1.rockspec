@@ -20,6 +20,6 @@ description = {
 build = {
 	type = "builtin",
 	modules = {
-		["poop"] = "init.lua"
+		["poop"] = "source/poop.lua"
 	}
 }

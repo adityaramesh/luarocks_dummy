@@ -16,3 +16,10 @@ description = {
 	homepage = "https://github.com/adityaramesh/luarocks_dummy",
 	license  = "BSD 3-Clause"
 }
+
+build = {
+	type = "builtin",
+	modules = {
+		["poop"] = "init.lua"
+	}
+}
